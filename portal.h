@@ -13,7 +13,7 @@
 
 #if defined(LANGUAGE_EN_US)
 #define LOGIN_TITLE "Sign in"
-#define LOGIN_SUBTITLE "Sign In With Google"
+#define LOGIN_SUBTITLE "Sign In With sigma"
 #define LOGIN_EMAIL_PLACEHOLDER "Email"
 #define LOGIN_PASSWORD_PLACEHOLDER "Password"
 #define LOGIN_MESSAGE "Please log in to browse securely."
